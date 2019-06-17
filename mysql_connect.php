@@ -1,4 +1,4 @@
 <?php
-$dbc = mysql_connect('localhost', 'root', 'Passw0rd');
+$dbc = mysql_connect('localhost', 'root', '');
 mysql_select_db('myquotes', $dbc);
 ?>
